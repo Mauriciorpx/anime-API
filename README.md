@@ -1,8 +1,12 @@
 # Rutas
 
+# Users
+
 - /api/v1/users
 - /api/v1/users/:id
 - /api/v1/users/me
+
+# Auth
 
 - /api/v1/auth/login
 - /api/v1/auth/register
